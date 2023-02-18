@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jarabi
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Javascript and Python
+- 👀 I’m interested in Software Engineering
+- 🌱 I’m currently learning Software Engineering # ALX_Africa
 - 💞️ I’m looking to collaborate on WebDev projects
 - 📫 How to reach me jarabialex@gmail.com or WhatsApp +254702111643
 
