@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-🔭 I’m currently learning React (state management, hooks, routing).<br>👯 I’m looking to collaborate on Frontend development<br>🤝 I’m looking for help with Docker<br>🌱 I’m currently learning Python, JavaScript (React) and CSS<br>💬 Ask me about Bass guitars and good food!<br>⚡ Fun fact: I have a thing for folding paper!
+🔭 I’m currently learning React (state management, hooks, routing).<br>👯 I’m looking to collaborate on Frontend development<br>🌱 I’m currently learning Python, JavaScript (React) and CSS<br>💬 Ask me about Bass guitars and good food!<br>⚡ Fun fact: I have a thing for folding paper!
 
 
 ## 🌐 Socials:
